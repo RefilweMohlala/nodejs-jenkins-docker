@@ -59,6 +59,17 @@ In this project built a CI/CD pipeline using Jenkins, Docker, and GitHub Webhook
    ```bash
    docker ps
    ```
+## Screenshots
+webhook
+![webhook](https://github.com/user-attachments/assets/d340ef9a-6821-4641-a214-71948e1fa8b1)
+Docker container run success
+![docker container run success](https://github.com/user-attachments/assets/280e7309-006c-46f8-bba7-2409bc4632d5)
+docker build image success
+![docker build image success](https://github.com/user-attachments/assets/c9e82cc3-fbb7-4e0a-ad28-621a0b04f0c9)
+node.js app running 
+![node js app](https://github.com/user-attachments/assets/66e77302-fa0c-449e-ae9e-320e7b29e0d6)
+Jenkins success
+![jenkins running](https://github.com/user-attachments/assets/d386180b-f235-4e0a-9f4c-144ceed016a0)
 
 ## 🧹 Cleaning Up
 To stop and remove containers:
